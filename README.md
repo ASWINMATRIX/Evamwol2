@@ -5,7 +5,7 @@
     
 <a href="#"><img title="ᴊᴀᴄᴋɪ" src="https://img.shields.io/badge/ASWIN KKD-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
   
- ## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=YY50000&lines=Welcome+to+EvaMwol+WA+Bot+repo;Created+by+Aswin+Kkd;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+ ## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=YY5000&lines=Welcome+to+EvaMwol+WA+Bot+repo;Created+by+Aswin+Kkd;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 1
       
   
